@@ -1,0 +1,15 @@
+Date: 15/3/2024
+Time: 21:34
+Phone Number: +916268845755
+Message: this message is from python by using pywhatkit
+--------------------
+Date: 15/3/2024
+Time: 21:39
+Phone Number: +919343525895
+Message: this message is from python by using pywhatkit
+--------------------
+Date: 15/3/2024
+Time: 21:42
+Phone Number: +919343525895
+Message: this message is from python by using pywhatkit
+--------------------
